@@ -1,0 +1,33 @@
+# ---- Backend (API server) ----
+fastapi
+uvicorn
+python-multipart
+
+# ---- Frontend ----
+streamlit
+requests
+
+# ---- LLM and agent framework ----
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-groq
+langgraph
+
+# ---- Embeddings (Hugging Face) and vector database ----
+langchain-huggingface
+sentence-transformers
+chromadb
+langchain-chroma
+
+# ---- PDF to text ----
+pypdf
+
+# ---- Image to text (OCR) ----
+pillow
+easyocr
+
+# ---- Utilities ----
+python-dotenv
+pydantic
